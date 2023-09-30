@@ -1,0 +1,8 @@
+# Q&A
+langchain==0.0.305
+
+# pdf reader
+pypdf
+
+# extra dependencies
+cryptography
