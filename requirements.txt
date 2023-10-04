@@ -1,8 +1,20 @@
+# Secrets
+python-dotenv
+
+# Embeddings
+openai
+
+# Vector-db
+pinecone-client
+
 # Q&A
-langchain==0.0.305
+langchain
 
 # pdf reader
 pypdf
 
 # extra dependencies
 cryptography
+
+# extra dependencies
+tiktoken
